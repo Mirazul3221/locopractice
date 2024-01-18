@@ -75,24 +75,27 @@ function App() {
           ref={box}
           className="right absolute top-0 overflow-hidden flex gap-4 left-[50%]"
         >
-          <img src="./logo512.png" />
-          <img src="./logo512.png" />
-          <img src="./logo512.png" />
-          <img src="./logo512.png" />
-          <img src="./logo512.png" />
-          <img src="./logo512.png" />
-          <img src="./logo512.png" />
-          <img src="./logo512.png" />
-          <img src="./logo512.png" />
-          <img src="./logo512.png" />
-          <img src="./logo512.png" />
-          <img src="./logo512.png" />
-          <img src="./logo512.png" />
-          <img src="./logo512.png" />
-          <img src="./logo512.png" />
-          <img src="./logo512.png" />
-          <img src="./logo512.png" />
-          <img src="./logo512.png" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
         </div>
       </div>
       <div className="w-screen h-screen bg-rose-500"></div>
