@@ -10,7 +10,7 @@ function App() {
     const boxImg = box.current;
     const pinBox = boxImg.offsetWidth;
     const mainComtainer = main.current;
-    console.log(pinBox);
+    console.log(pinBox, boxImg.scrollWidth);
     gsap.registerPlugin(ScrollTrigger);
     gsap.to(mainComtainer, {
       scrollTrigger: {
@@ -33,7 +33,7 @@ function App() {
         scrub: true,
         pin: true,
       },
-      x: -pinBox,
+      x: -boxImg.scrollWidth,
     });
   }, []);
 
