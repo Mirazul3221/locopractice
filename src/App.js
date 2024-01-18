@@ -73,7 +73,7 @@ function App() {
         </div>
         <div
           ref={box}
-          className="right absolute top-0 overflow-hidden flex gap-4 left-[50%]"
+          className="absolute top-0 overflow-hidden flex gap-4 left-[500px]"
         >
           <img src="./logo512.png" alt="hdf" />
           <img src="./logo512.png" alt="hdf" />
