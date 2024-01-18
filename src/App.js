@@ -28,13 +28,12 @@ function App() {
 
     gsap.to(boxImg, {
       scrollTrigger: {
-        trigger: mainComtainer,
+        trigger: boxImg,
         start: "top top",
         scrub: true,
         pin: true,
       },
       x: -pinBox,
-      duration: 1,
     });
   }, []);
 
