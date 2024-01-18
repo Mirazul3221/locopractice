@@ -31,7 +31,7 @@ function App() {
     <div className="App w-screen">
       <div className="w-screen h-screen bg-sky-500"></div>
       <div ref={main} className="flex relative w-screen overflow-hidden">
-        <div className="left w-[40%]">
+        <div className="left w-[40vw]">
           <h1>This is left</h1>
           <p className="">
             Lorem Ipsum is simply dummy text of the printing and typesetting
