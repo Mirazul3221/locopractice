@@ -83,25 +83,24 @@ function App() {
             Aldus PageMaker including versions of Lorem Ipsum.
           </p>
         </div>
-        <div
-          ref={box}
-          className="absolute w-[7984px] top-0 overflow-hidden top-[30%] pl-20 flex gap-4 left-[500px]"
-        >
-          <img src="./logo512.png" alt="hdf" />
-          <img src="./logo512.png" alt="hdf" />
-          <img src="./logo512.png" alt="hdf" />
-          <img src="./logo512.png" alt="hdf" />
-          <img src="./logo512.png" alt="hdf" />
-          <img src="./logo512.png" alt="hdf" />
-          <img src="./logo512.png" alt="hdf" />
-          <img src="./logo512.png" alt="hdf" />
-          <img src="./logo512.png" alt="hdf" />
-          <img src="./logo512.png" alt="hdf" />
-          <img src="./logo512.png" alt="hdf" />
-          <img src="./logo512.png" alt="hdf" />
-          <img src="./logo512.png" alt="hdf" />
-          <img src="./logo512.png" alt="hdf" />
-          <img src="./logo512.png" alt="hdf" />
+        <div className="absolute top-[30%] left-[500px] pl-20 w-[600px] overflow-hidden">
+          <div ref={box} className="w-[7984px] flex gap-4 ">
+            <img src="./logo512.png" alt="hdf" />
+            <img src="./logo512.png" alt="hdf" />
+            <img src="./logo512.png" alt="hdf" />
+            <img src="./logo512.png" alt="hdf" />
+            <img src="./logo512.png" alt="hdf" />
+            <img src="./logo512.png" alt="hdf" />
+            <img src="./logo512.png" alt="hdf" />
+            <img src="./logo512.png" alt="hdf" />
+            <img src="./logo512.png" alt="hdf" />
+            <img src="./logo512.png" alt="hdf" />
+            <img src="./logo512.png" alt="hdf" />
+            <img src="./logo512.png" alt="hdf" />
+            <img src="./logo512.png" alt="hdf" />
+            <img src="./logo512.png" alt="hdf" />
+            <img src="./logo512.png" alt="hdf" />
+          </div>
         </div>
       </div>
       <div className="w-screen h-screen bg-rose-500"></div>
