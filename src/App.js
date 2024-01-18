@@ -16,7 +16,7 @@ function App() {
       scrollTrigger: {
         trigger: mainComtainer,
         start: "top center",
-        end: "",
+        end: pinBox,
         markers: true,
         scrub: true,
         pin: true,
@@ -75,6 +75,70 @@ function App() {
           ref={box}
           className="right absolute top-0 overflow-hidden flex gap-4 left-[50%]"
         >
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
           <img src="./logo512.png" alt="hdf" />
           <img src="./logo512.png" alt="hdf" />
           <img src="./logo512.png" alt="hdf" />
