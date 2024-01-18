@@ -16,7 +16,7 @@ function App() {
       scrollTrigger: {
         trigger: mainComtainer,
         start: "top top",
-        end: pinBox,
+        end: boxImg.scrollWidth,
         markers: true,
         scrub: true,
         pin: true,
@@ -30,7 +30,7 @@ function App() {
       scrollTrigger: {
         trigger: boxImg,
         start: "top top",
-        end: pinBox,
+        end: boxImg.scrollWidth,
         scrub: true,
       },
       x: -boxImg.scrollWidth,
