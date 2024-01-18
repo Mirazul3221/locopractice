@@ -15,7 +15,7 @@ function App() {
     gsap.to(mainComtainer, {
       scrollTrigger: {
         trigger: mainComtainer,
-        start: "top center",
+        start: "top top",
         end: pinBox,
         markers: true,
         scrub: true,
