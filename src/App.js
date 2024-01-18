@@ -15,6 +15,7 @@ function App() {
         markers: true,
         scrub: true,
         pin: true,
+        pinSpacer: false,
       },
       x: 700,
       duration: 1,
