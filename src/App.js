@@ -22,7 +22,7 @@ function App() {
         pin: true,
         pinSpacer: false,
       },
-
+      height: `${boxImg.scrollWidth}px`,
       duration: 1,
     });
 
@@ -30,8 +30,8 @@ function App() {
       scrollTrigger: {
         trigger: boxImg,
         start: "top top",
+        end: pinBox,
         scrub: true,
-        pin: true,
       },
       x: -boxImg.scrollWidth,
     });
