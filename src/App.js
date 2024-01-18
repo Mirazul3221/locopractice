@@ -83,7 +83,7 @@ function App() {
             Aldus PageMaker including versions of Lorem Ipsum.
           </p>
         </div>
-        <div className="absolute top-[30%] left-[500px] pl-20 w-[600px] overflow-hidden">
+        <div className="absolute left-[700px] pl-20 w-[600px] overflow-hidden">
           <div ref={box} className="w-[7984px] flex gap-4 ">
             <img src="./logo512.png" alt="hdf" />
             <img src="./logo512.png" alt="hdf" />
