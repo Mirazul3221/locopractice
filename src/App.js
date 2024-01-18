@@ -25,6 +25,17 @@ function App() {
 
       duration: 1,
     });
+
+    gsap.to(boxImg, {
+      scrollTrigger: {
+        trigger: mainComtainer,
+        start: "top top",
+        scrub: true,
+        pin: true,
+      },
+      x: -pinBox,
+      duration: 1,
+    });
   }, []);
 
   return (
@@ -73,7 +84,7 @@ function App() {
         </div>
         <div
           ref={box}
-          className="absolute top-0 overflow-hidden flex gap-4 left-[500px]"
+          className="absolute top-0 overflow-hidden top-[30%] pl-20 flex gap-4 left-[500px]"
         >
           <img src="./logo512.png" alt="hdf" />
           <img src="./logo512.png" alt="hdf" />
