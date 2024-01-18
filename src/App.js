@@ -22,7 +22,7 @@ function App() {
         pin: true,
         pinSpacer: false,
       },
-      x: 700,
+
       duration: 1,
     });
   }, []);
@@ -160,7 +160,133 @@ function App() {
           <img src="./logo512.png" alt="hdf" />
           <img src="./logo512.png" alt="hdf" />
           <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
+          <img src="./logo512.png" alt="hdf" />
         </div>
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
       </div>
       <div className="w-screen h-screen bg-rose-500"></div>
     </div>
