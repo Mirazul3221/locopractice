@@ -4,19 +4,21 @@ import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 
 function App() {
+  const test = useRef(null);
   const main = useRef(null);
   const box = useRef(null);
   useEffect(() => {
+    // const boxIest = box.current;
     const boxImg = box.current;
     const pinBox = boxImg.offsetWidth;
     const mainComtainer = main.current;
-    console.log(pinBox, boxImg.scrollWidth);
+    console.log(boxImg.scrollWidth);
     gsap.registerPlugin(ScrollTrigger);
     gsap.to(mainComtainer, {
       scrollTrigger: {
         trigger: mainComtainer,
         start: "top top",
-        end: boxImg.scrollWidth,
+        end: pinBox,
         markers: true,
         scrub: true,
         pin: true,
@@ -30,7 +32,7 @@ function App() {
       scrollTrigger: {
         trigger: boxImg,
         start: "top top",
-        end: boxImg.scrollWidth,
+        end: pinBox,
         scrub: true,
       },
       x: -boxImg.scrollWidth,
@@ -39,7 +41,7 @@ function App() {
 
   return (
     <div className="App w-screen">
-      <div className="w-screen h-screen bg-sky-500"></div>
+      <div className="h-screen bg-sky-500"></div>
       <div ref={main} className="flex relative w-screen overflow-hidden">
         <div className="left w-[40vw]">
           <h1>This is left</h1>
@@ -83,7 +85,7 @@ function App() {
         </div>
         <div
           ref={box}
-          className="absolute top-0 overflow-hidden top-[30%] pl-20 flex gap-4 left-[500px]"
+          className="absolute w-[7984px] top-0 overflow-hidden top-[30%] pl-20 flex gap-4 left-[500px]"
         >
           <img src="./logo512.png" alt="hdf" />
           <img src="./logo512.png" alt="hdf" />
@@ -101,6 +103,37 @@ function App() {
           <img src="./logo512.png" alt="hdf" />
           <img src="./logo512.png" alt="hdf" />
         </div>
+      </div>
+      <div className="w-screen h-screen bg-rose-500"></div>
+
+      <div ref={test} className="w-[20px] px-20 flex gap-4">
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
+        <img src="./logo512.png" alt="hdf" />
       </div>
       <div className="w-screen h-screen bg-rose-500"></div>
     </div>
