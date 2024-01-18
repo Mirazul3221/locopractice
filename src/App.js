@@ -245,48 +245,6 @@ function App() {
           <img src="./logo512.png" alt="hdf" />
           <img src="./logo512.png" alt="hdf" />
         </div>
-        <img src="./logo512.png" alt="hdf" />
-        <img src="./logo512.png" alt="hdf" />
-        <img src="./logo512.png" alt="hdf" />
-        <img src="./logo512.png" alt="hdf" />
-        <img src="./logo512.png" alt="hdf" />
-        <img src="./logo512.png" alt="hdf" />
-        <img src="./logo512.png" alt="hdf" />
-        <img src="./logo512.png" alt="hdf" />
-        <img src="./logo512.png" alt="hdf" />
-        <img src="./logo512.png" alt="hdf" />
-        <img src="./logo512.png" alt="hdf" />
-        <img src="./logo512.png" alt="hdf" />
-        <img src="./logo512.png" alt="hdf" />
-        <img src="./logo512.png" alt="hdf" />
-        <img src="./logo512.png" alt="hdf" />
-        <img src="./logo512.png" alt="hdf" />
-        <img src="./logo512.png" alt="hdf" />
-        <img src="./logo512.png" alt="hdf" />
-        <img src="./logo512.png" alt="hdf" />
-        <img src="./logo512.png" alt="hdf" />
-        <img src="./logo512.png" alt="hdf" />
-        <img src="./logo512.png" alt="hdf" />
-        <img src="./logo512.png" alt="hdf" />
-        <img src="./logo512.png" alt="hdf" />
-        <img src="./logo512.png" alt="hdf" />
-        <img src="./logo512.png" alt="hdf" />
-        <img src="./logo512.png" alt="hdf" />
-        <img src="./logo512.png" alt="hdf" />
-        <img src="./logo512.png" alt="hdf" />
-        <img src="./logo512.png" alt="hdf" />
-        <img src="./logo512.png" alt="hdf" />
-        <img src="./logo512.png" alt="hdf" />
-        <img src="./logo512.png" alt="hdf" />
-        <img src="./logo512.png" alt="hdf" />
-        <img src="./logo512.png" alt="hdf" />
-        <img src="./logo512.png" alt="hdf" />
-        <img src="./logo512.png" alt="hdf" />
-        <img src="./logo512.png" alt="hdf" />
-        <img src="./logo512.png" alt="hdf" />
-        <img src="./logo512.png" alt="hdf" />
-        <img src="./logo512.png" alt="hdf" />
-        <img src="./logo512.png" alt="hdf" />
       </div>
       <div className="w-screen h-screen bg-rose-500"></div>
     </div>
